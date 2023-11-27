@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ezagof, a french 20 years old guy.
+- 👋 Hi, I’m @aautin, a french 20 years old guy.
 - 👀 I’m interested in IT Sciences and especially programming.
 - 🌱 I’m currently learning the C language at the Paris' Campus of the 42School.
 - 🤔 Already thinking of going into IA and Cybersec' (not sure of what it means for now lmao).
