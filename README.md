@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aautin" alt="aautin" /></a> </p>
 <img align="right" alt="Coding" width="330" src="https://media.tenor.com/pZxJ1m0eg8kAAAAC/doge-type.gif">
 
-- 🔭 I’m currently working on [42_pipex](https://github.com/aautin/42_so_long)
+- 🔭 I’m currently working on [42_so_long](https://github.com/aautin/42_so_long)
 
 - 🌱 I’m currently learning **the C language**
 
