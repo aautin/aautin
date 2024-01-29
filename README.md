@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Autin Alexandre</h1>
 <h3 align="center">A new programming learner from France 🇫🇷</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aautin&label=Profile%20views&color=0e75b6&style=flat" alt="aautin" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aautin" alt="aautin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aautin&theme=onedark" alt="aautin" /></a> </p>
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact" alt="aautin" /></p>
