@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" /></p>
 
-- 🔭 I’m currently working on [42_so_long](https://github.com/aautin/42_so_long)
+- 🔭 I’m currently working on [42_philosophers](https://github.com/aautin/42_philosophers)
 
 - 🌱 I’m currently learning **the C language**
 
