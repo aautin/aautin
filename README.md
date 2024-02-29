@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **the C language**
 
-- 👯 I’m looking to collaborate on **any types of project**, looking for your ideas :D
+- 👯 I’m looking to collaborate on **any types of project**, looking for ideas :D
 
 - 📫 How to reach me **alexandreautin.aa@gmail.com**
 
