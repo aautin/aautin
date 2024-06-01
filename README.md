@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" /></p>
 
-- 🔭 I’m currently working on [42_minishell](https://github.com/aautin/42_minishell)
+- 🔭 I’m currently working on [42_cub3D](https://github.com/aautin/42_cub3D)
 
 - 🌱 I’m currently learning **the C language**
 
