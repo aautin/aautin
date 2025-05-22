@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Autin Alexandre</h1>
 <h3 align="center">A new programming learner from France 🇫🇷</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aautin&theme=algolia" alt="aautin" /></a>
-</p>
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" /></p>
 
-- 🔭 I’m currently working on [42_cpp](https://github.com/aautin/42_cpp)
+- 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/p/aautin)
 
-- 🌱 I’m currently learning **the C language**
+- 🌱 I’m currently learning **the CyberSecurity fundamentals**
 
 - 👯 I’m looking to collaborate on **any types of project**, looking for ideas :D
 
@@ -22,6 +19,18 @@
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" >
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" width="50" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" >
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css" width="50" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" >
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="js" width="50" height="50" />
+  </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer" >
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="ts" width="50" height="50" />
   </a>
 </p>
 
