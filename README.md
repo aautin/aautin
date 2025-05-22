@@ -32,6 +32,9 @@
   <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer" >
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="ts" width="50" height="50" />
   </a>
+  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer" >
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="50" height="50" />
+  </a>
 </p>
 
 
