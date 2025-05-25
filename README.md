@@ -4,9 +4,9 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" /></p>
 
-- 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/p/aautin)
+- 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/p/aautin) and 42School's LibAsm project
 
-- 🌱 I’m currently learning **the CyberSecurity fundamentals**
+- 🌱 I’m currently learning **CyberSecurity fundamentals** and **Assembly language**
 
 - 👯 I’m looking to collaborate on **any types of project**, looking for ideas :D
 
