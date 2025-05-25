@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Autin Alexandre</h1>
-<h3 align="center">A new programming learner from France 🇫🇷</h3>
-
+<h1 align="center">Hi 👋, I'm Autin Alexandre, a 42Paris student 🇫🇷🗼</h1>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" /></p>
 
