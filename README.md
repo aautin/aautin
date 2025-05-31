@@ -1,4 +1,4 @@
-<h1 align="center">🇫🇷 42Paris Student 👋</h1>
+<h1 align="center">🥐 42Paris Student 👋</h1>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" /></p>
 
