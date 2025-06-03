@@ -2,7 +2,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" /></p>
 
-- 🔭 I’m currently working on and [42_cybersecurity](https://github.com/aautin/42_cybersecurity)
+- 🔭 I’m currently working on [42_cybersecurity](https://github.com/aautin/42_cybersecurity)
 
 - 🌱 I’m currently learning **CyberSecurity fundamentals**
 
