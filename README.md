@@ -36,6 +36,9 @@
   <a href="https://www.tutorialspoint.com/assembly_programming" target="_blank" rel="noreferrer" >
     <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="asm" width="50" height="50" />
   </a>
+  <a href="https://www.php.net/manual/en/" target="_blank" rel="noreferrer" >
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50" />
+  </a>
 </p>
 
 
