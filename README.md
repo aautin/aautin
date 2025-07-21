@@ -2,9 +2,9 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" /></p>
 
-- 🔭 I’m currently working on [42_cybersecurity](https://github.com/aautin/42_cybersecurity)
+- 🔭 I’m currently working on [42_cybersecurity](https://github.com/aautin/42_cybersecurity) and [game_from_scratch](https://github.com/aautin/game_from_scratch)
 
-- 🌱 I’m currently learning **CyberSecurity fundamentals**
+- 🌱 I’m currently learning 🛡️ **CyberSecurity** and 🎮 **Game-Development**
 
 - 👯 I’m looking to collaborate on **any types of project**, looking for ideas :D
 
