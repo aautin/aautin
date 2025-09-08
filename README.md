@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning 🛡️ **CyberSecurity** and 🎮 **Game-Development**
 
-- 👯 I’m looking to collaborate on **any types of project**, looking for ideas :D
-
-- 📫 How to reach me **alexandreautin.aa@gmail.com**
+- 👯 I’m looking to collaborate on **any types of project** :D
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
