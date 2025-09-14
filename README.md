@@ -2,9 +2,9 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" /></p>
 
-- 🔭 I’m currently working on [42_cybersecurity](https://github.com/aautin/42_cybersecurity) and [qt_discovery](https://github.com/aautin/qt_discovery)
+- 🔭 I’m currently working on [Cybersecurity](https://github.com/aautin/42_cybersecurity) and [Qt Framework](https://github.com/aautin/qt_discovery)
 
-- 🌱 I’m currently learning 🛡️ **CyberSecurity** and 🎮 **GUI applications development**
+- 🌱 I’m currently learning 🛡️ **CyberSecurity** and 🛠️ **GUI applications development**
 
 - 👯 I’m looking to collaborate on **any types of project** :D
 
