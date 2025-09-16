@@ -2,9 +2,9 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" /></p>
 
-- 🔭 I’m currently working on [Cybersecurity](https://github.com/aautin/42_cybersecurity) and [Qt Framework](https://github.com/aautin/qt_discovery)
+- 🔭 I’m currently working on [cybersecurity](https://github.com/aautin/42_cybersecurity) and [football_analytics](https://github.com/aautin/football_analytics)
 
-- 🌱 I’m currently learning 🛡️ **CyberSecurity** and 🛠️ **GUI applications development**
+- 🌱 I’m currently learning 🛡️ **CyberSecurity** and 🛠️ **QT Software Development**
 
 - 👯 I’m looking to collaborate on **any types of project** :D
 
@@ -36,6 +36,9 @@
   </a>
   <a href="https://www.php.net/manual/en/" target="_blank" rel="noreferrer" >
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50" />
+  </a>
+  <a href="https://doc.qt.io/" target="_blank" rel="noreferrer" >
+    <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="50" height="50" />
   </a>
 </p>
 
