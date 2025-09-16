@@ -1,6 +1,6 @@
 <h1 align="center">🥐 42Paris Student 👋</h1>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" width="300" height="300"/></p>
 
 - 🔭 I’m currently working on [cybersecurity](https://github.com/aautin/42_cybersecurity) and [football_analytics](https://github.com/aautin/football_analytics)
 
