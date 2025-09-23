@@ -40,6 +40,12 @@
   <a href="https://doc.qt.io/" target="_blank" rel="noreferrer" >
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="50" height="50" />
   </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer" >
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
+  </a>
+  <a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/" target="_blank" rel="noreferrer" >
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" />
+  </a>
 </p>
 
 
