@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [football_master](https://github.com/aautin/football_master) ⚽
 
-- 🌱 I’m currently learning 🛡️ **CyberSecurity** and 🛠️ **QT Software Development**
+- 🌱 I’m currently learning 🛡️ **CyberSecurity** and 🛠️ **GUI Software Development**
 
 - 👯 I’m looking to collaborate on **any types of project** :D
 
