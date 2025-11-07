@@ -46,6 +46,9 @@
   <a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/" target="_blank" rel="noreferrer" >
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" />
   </a>
+  <a href="https://docs.conan.io" target="_blank" rel="noreferrer" >
+    <img src="./resources/conan_icon.png" alt="conan" width="50" height="50" />
+  </a>
 </p>
 
 
