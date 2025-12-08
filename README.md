@@ -1,7 +1,5 @@
 <h1 align="center">🥐 42Paris Student 👋</h1>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aautin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aautin" width="300" height="300"/></p>
-
 - 🔭 I’m currently doing my internship at [SBG-Systems](https://www.sbg-systems.com/)
 
 - 💫 I'm also developping tiny [video-games](https://github.com/aautin/) from scratch in my spare time
