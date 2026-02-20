@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently doing my internship at [SBG-Systems](https://www.sbg-systems.com/)
 
-- 💫 I'm also developping tiny [video-games](https://github.com/aautin/putt-it) from scratch in my spare time
+- 💫 I have just developed a [demo desktop app](https://github.com/aautin/QML_Demo) in QML/Qt/C++, wanna take a look ? 👀
 
 - 🌱 I want to specialize in 🛡️ **CyberSecurity**, 🎮 **Game Development** and 🛠️ **GUI Software Development**
 
