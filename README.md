@@ -1,6 +1,6 @@
 <h1 align="center">🥐 42Paris Student 👋</h1>
 
-- 🔭 I’m working at [SBG-Systems](https://www.sbg-systems.com/) as a **Software Development Engineer**
+- 🔭 I’m working at [SBG-Systems](https://www.sbg-systems.com/) as a **Software Development Engineer** 🤓
 
 - 🌱 I want to specialize in 🛡️ **CyberSecurity**, 🌐 **Network** and 🛠️ **GUI Software Development**
 
