@@ -1,10 +1,10 @@
 <h1 align="center">🥐 42Paris Student 👋</h1>
 
-- 🔭 I’m currently doing my internship at [SBG-Systems](https://www.sbg-systems.com/)
+- 🔭 I’m working at [SBG-Systems](https://www.sbg-systems.com/) as a **Software Development Engineer**
 
-- 💫 I have just developed a [demo desktop app](https://github.com/aautin/QML_Demo) in QML/Qt/C++, wanna take a look ? 👀
+- 🌱 I want to specialize in 🛡️ **CyberSecurity**, 🌐 **Network** and 🛠️ **GUI Software Development**
 
-- 🌱 I want to specialize in 🛡️ **CyberSecurity**, 🎮 **Game Development** and 🛠️ **GUI Software Development**
+- 🎮 A bit of **Game Development** as a hobby
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
