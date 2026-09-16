@@ -78,18 +78,31 @@
 </p>
 
 <h3 align="left">🗄️ Databases:</h3>
-<p>
-  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
-  </a>
-</p>
-
+<ul>
+  <li><a href="https://dev.mysql.com/doc/">MySQL</a></li>
+  <li><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/">Oracle</a></li>
+</ul>
 <h3 align="left">📦 Package & Build Management:</h3>
-<p>
-  <a href="https://docs.conan.io" target="_blank" rel="noreferrer">
-    <img src="./resources/conan_icon.png" alt="conan" width="50" height="50"/>
-  </a>
-</p>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<ul>
+  <li><a href="https://cmake.org/documentation/">CMake</a></li>
+  <li><a href="https://www.gnu.org/software/make/manual/">Make</a></li>
+  <li><a href="https://docs.conan.io/">Conan</a></li>
+</ul>
+
+</td>
+<td valign="top" width="50%">
+
+<ul>
+  <li><a href="https://pip.pypa.io/en/stable/">pip</a></li>
+  <li><a href="https://docs.npmjs.com/">npm</a></li>
+</ul>
+
+</td>
+</tr>
+</table>
+
