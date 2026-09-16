@@ -93,7 +93,7 @@
 <td valign="top" width="50%">
 
 <ul>
-  <li><a href="https://cmake.org/documentation/">CMake</a></li>
+  <li><a href="https://cmake.org/cmake/help/latest/">CMake</a></li>
   <li><a href="https://www.gnu.org/software/make/manual/">Make</a></li>
   <li><a href="https://docs.conan.io/">Conan</a></li>
 </ul>
