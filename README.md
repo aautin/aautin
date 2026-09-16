@@ -62,10 +62,14 @@
   <a href="https://docs.ansible.com/projects/ansible/latest/dev_guide/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="50" height="50"/>
   </a>
+  <a href="https://kubernetes.io/docs" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/>
+  </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="50" height="50"/>
   </a>
 </p>
+
 
 <h3 align="left">🖥️ GUI & Graphics:</h3>
 <p>
